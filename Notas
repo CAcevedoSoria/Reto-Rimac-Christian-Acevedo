@@ -1,0 +1,7 @@
+-Se realizo implementacion de api rest con get y post utilizando lambda,serverless,dynamo and node.js
+
+-Se realizo consumo de servicio Api Star Wars-sin lambda
+
+-Tuve un problema con el gateway que entiendo es la configuracion en el codigo para lambda lo cual no me permitio ejecutar test ni llevar el consumir.js a uso con lambda, 
+tengo la idea plasmada clara de como hacerlo con Java considero me falto un poco de tiempo para plasmarlo en Javascript y lambda.
+
